@@ -1,6 +1,6 @@
 # Microsoft-SQL-Server-Sales-Analysis-Project
 
-![image](https://github.com/Venura-94/End-to-End-Microsoft-SQL-Server-Sales-Analysis-Project/assets/137409412/da6b4818-76b0-4e87-8f9b-ea8b731bc4f6)
+![image](https://github.com/Venura-94/End-to-End-Microsoft-SQL-Server-Sales-Analysis-Project/assets/137409412/f7da0fe1-e9ec-4117-a349-d19dc6ec9d60)
 
 
 ###  Final Results of SQL Analysis on Sales
